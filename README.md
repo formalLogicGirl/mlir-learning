@@ -13,7 +13,7 @@ A structured exploration of MLIR from first principles.
 ## Repository Structure
 
 - `notes/` — Learning notes
-- `blog/` — Draft blog and LinkedIn posts
+- `blog/` — Draft blog posts from learning experience
 - `examples/` — Small MLIR programs
 - `experiments/` — Passes, dialects, and prototypes
 - `design-decisions.md` — Design insights and tradeoffs
